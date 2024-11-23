@@ -1,3 +1,2 @@
 # Real Estate Pricing Model
-NYC properties
-Data sources:
+Predicts the price of NYC properties based on various property features.
